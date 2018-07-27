@@ -1,0 +1,20 @@
+body{
+    background: url("https://code.org/images/app-lab/applab-tool.png");
+    background-size:cover;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    text-align: center;
+}
+
+div{
+    color: black;
+}
+#speech{
+    width: 25%;
+}
