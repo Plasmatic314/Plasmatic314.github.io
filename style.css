@@ -18,3 +18,14 @@ div{
 #speech{
     width: 25%;
 }
+
+.container{
+    border: yellow 5px solid;
+    background-color: rgb(50,0,0,.2);
+   
+}
+
+
+img {
+    width: 100px ;
+}
